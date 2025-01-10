@@ -1,4 +1,6 @@
-## Hi there 👋
+##👋 Yazılım Mühendisliği 2. sınıf öğrencisiyim ve aynı zamanda Bilgisayar Programcılığı bölümünde eğitimime devam etmekteyim. HTML, CSS, Python, Kotlin, Java (OOP) ve Veri Bilimi konularında bilgi sahibiyim. Gelecekte uzmanlık alanlarımı daha da genişletmeyi hedefliyorum.
+
+Şu anda ekip olarak sağlık alanında bir Android uygulama geliştirme projesi üzerinde çalışıyoruz ve bu projeyi yakın zamanda sizlere sunmayı amaçlıyoruz. Veri Bilimi, Yapay Zeka ve Uygulama Geliştirme alanlarına özel bir ilgi duymaktayım. Gelişim yolculuğumda öğrenmeye ve yeni deneyimler kazanmaya açık bir şekilde ilerliyorum. 😊
 
 <!--
 **OgunYildirim/OgunYildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
